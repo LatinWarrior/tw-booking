@@ -1,0 +1,39 @@
+{
+    "resources": [
+        {
+            "title": "Construction Picture 1",
+            "link": "",
+            "imageUrl": "/assets/unsplash_1.jpg"
+        },
+        {
+            "title": "Construction Picture 2",
+            "link": "",
+            "imageUrl": "/assets/unsplash_2.jpg"
+        },
+        {
+            "title": "Construction Picture 3",
+            "link": "",
+            "imageUrl": "/assets/unsplash_3.jpg"
+        },
+        {
+            "title": "Construction Picture 4",
+            "link": "",
+            "imageUrl": "/assets/unsplash_4.jpg"
+        },
+        {
+            "title": "Construction Picture 5",
+            "link": "",
+            "imageUrl": "/assets/unsplash_5.jpg"
+        },
+        {
+            "title": "Construction Picture 6",
+            "link": "",
+            "imageUrl": "/assets/unsplash_6.jpg"
+        },
+        {
+            "title": "Construction Picture 7",
+            "link": "",
+            "imageUrl": "/assets/unsplash_7.jpg"
+        }
+    ]
+}
